@@ -1,8 +1,8 @@
 Project Name: Chip Trade Game
 Authors: David Cao & Tu Cao
 
-Development Start Date: February 8, 2020
-Current Version: Alpha 1.0
+Alpha 2.0 Start Date: March 28, 2020
+Current Version: Alpha 2.0
 Description: 
 Based on an original tabletop game, Chip Trade is a strategic probability game. The objective
 of the game is to flip multiple chips and based on the amount that are faced up, you obtain a
@@ -13,9 +13,6 @@ but has many intricate mechanics that gives this game its strategic depth.
 ----------------------------------------------------------------------------------
 
 Developer Notes:
-
-- Alpha versions will be developed in Python. Beta versions will be developed
-  in Swift for Apple's iOS.
 
 [3/23/20]
 - Completed core mechanics
@@ -42,12 +39,23 @@ Plans for Alpha 2.0
 - Bug fixes (Red Bandage)
 - More testing
 
-Possible Plans for Alpha 3.0:
-- Bug fixes
-- More testing
+[3/28/20]
+- Input validation implemented
+- Implemented checks for sufficient power uses
+- Implemented checks for power graveyard condition (2 must be in the graveyard besides Libra's Scale)
+- Bug fix: Case for when player has 1 chip left is implemented correctly
+- Paladin's Shield now obeys Section III, Rule 4 of the official rules
+- Turn tracker implemented
+- Bug fix: Red Bandage no longer over-heals
+
+Plans for Alpha 3.0:
+- Modulized code
+- Implement a menu and allow player to replay the game
+- Bug fixes (if any)
 - Implement Trade mechanic
-- Error handling
+- Error handling?
+- More testing
 
 
 
-Version Alpha 1.0 completed on March 24, 2020
+Version Alpha 2.0 completed on March 28, 2020
