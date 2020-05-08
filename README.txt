@@ -1,4 +1,4 @@
-Project Name: Chip Trade Game
+Project Name: Chip Trade Game (Python Prototype)
 Authors: David Cao & Tu Cao
 
 Alpha 2.0 Start Date: March 28, 2020
@@ -9,6 +9,8 @@ of the game is to flip multiple chips and based on the amount that are faced up,
 card. Collect a certain amount of cards and you win. While playing, you have access to various
 power-ups which have some interesting effects. This game of chance is simple on the surface,
 but has many intricate mechanics that gives this game its strategic depth.
+
+Note: This game currently a prototype being developed in Python. The final product will be developed in Swift for iOS.
 
 ----------------------------------------------------------------------------------
 
