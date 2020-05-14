@@ -9,3 +9,4 @@ class Player:
         self.skull_use = 2
         self.pal_use = 1
         self.protected_rolls = 0
+        self.traded = False
