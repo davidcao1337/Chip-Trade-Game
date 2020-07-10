@@ -270,7 +270,7 @@ def trade(player):
             print("Invalid selection...")
 
     # Player exits trade without trading anything
-    if (selection == "q" or "Q") and (trade_count == 3):
+    if trade_count == 3:
         return
     else:
         player.traded = True
