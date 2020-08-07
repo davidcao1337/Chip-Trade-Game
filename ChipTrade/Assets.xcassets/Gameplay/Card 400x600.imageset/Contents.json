@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Card 400x600.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
