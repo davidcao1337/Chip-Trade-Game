@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "New Play Button - Custom [585x250].png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
